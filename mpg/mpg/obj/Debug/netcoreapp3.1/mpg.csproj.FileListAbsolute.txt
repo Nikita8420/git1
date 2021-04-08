@@ -1,0 +1,13 @@
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\bin\Debug\netcoreapp3.1\mpg.exe
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\bin\Debug\netcoreapp3.1\mpg.deps.json
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\bin\Debug\netcoreapp3.1\mpg.runtimeconfig.json
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\bin\Debug\netcoreapp3.1\mpg.runtimeconfig.dev.json
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\bin\Debug\netcoreapp3.1\mpg.dll
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\bin\Debug\netcoreapp3.1\mpg.pdb
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\obj\Debug\netcoreapp3.1\mpg.csprojAssemblyReference.cache
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\obj\Debug\netcoreapp3.1\mpg.AssemblyInfoInputs.cache
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\obj\Debug\netcoreapp3.1\mpg.AssemblyInfo.cs
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\obj\Debug\netcoreapp3.1\mpg.csproj.CoreCompileInputs.cache
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\obj\Debug\netcoreapp3.1\mpg.dll
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\obj\Debug\netcoreapp3.1\mpg.pdb
+C:\Users\nikin\OneDrive\Desktop\WorkWithGit-master\mpg\mpg\obj\Debug\netcoreapp3.1\mpg.genruntimeconfig.cache
